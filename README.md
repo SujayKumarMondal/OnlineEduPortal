@@ -32,7 +32,7 @@
 5. Send Feedback to HOD
 
 ## Repository 
-1. https://github.com/SujayKumarMondal
+1. https://github.com/SujayKumarMondal/OnlineEduPortal
 
 ## Support Developer
 1. Add a Star 🌟  to this 👆 Repository
