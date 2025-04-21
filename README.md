@@ -1,4 +1,7 @@
 ![Homepage Screenshot](main_app/static/image/login_ss.png)
+![Admin Page Screenshot](main_app/static/image/admin_ss.png)
+![Staff Page Screenshot](main_app/static/image/staff_ss.png)
+![Student Page Screenshot](main_app/static/image/student_ss.png)
 
 ## Features of this Project
 
